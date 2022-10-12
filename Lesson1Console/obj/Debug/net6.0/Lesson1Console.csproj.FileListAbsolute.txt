@@ -1,0 +1,15 @@
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\bin\Debug\net6.0\Lesson1Console.exe
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\bin\Debug\net6.0\Lesson1Console.deps.json
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\bin\Debug\net6.0\Lesson1Console.runtimeconfig.json
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\bin\Debug\net6.0\Lesson1Console.dll
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\bin\Debug\net6.0\Lesson1Console.pdb
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\obj\Debug\net6.0\Lesson1Console.csproj.AssemblyReference.cache
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\obj\Debug\net6.0\Lesson1Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\obj\Debug\net6.0\Lesson1Console.AssemblyInfoInputs.cache
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\obj\Debug\net6.0\Lesson1Console.AssemblyInfo.cs
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\obj\Debug\net6.0\Lesson1Console.csproj.CoreCompileInputs.cache
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\obj\Debug\net6.0\Lesson1Console.dll
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\obj\Debug\net6.0\refint\Lesson1Console.dll
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\obj\Debug\net6.0\Lesson1Console.pdb
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\obj\Debug\net6.0\Lesson1Console.genruntimeconfig.cache
+C:\Users\oksla\OneDrive\Рабочий стол\IT education\Lesson1C\Lesson1Console\obj\Debug\net6.0\ref\Lesson1Console.dll
